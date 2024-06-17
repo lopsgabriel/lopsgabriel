@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Im on Computer Engineering college, looking for my 1st job, passionate about learning new things<br>and solving problems<br>- Studyinig Python & Typescript<br>- Always Improving</p>
+<p align="left">Im on Computer Engineering college, looking for my 1st job, passionate about learning new things<br>and solving problems<br>- Studying Python & Typescript<br>- Always Improving</p>
 
 ###
 
