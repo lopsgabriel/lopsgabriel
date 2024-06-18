@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Im on Computer Engineering college, looking for my 1st job, passionate about learning new things<br>and solving problems<br>- Studying Python & Typescript<br>- Always Improving</p>
+<p align="left">I am a Computer Engineering student, currently looking for my first job. I am passionate about learning new things <br>and solving problems.<br>- Studying Python & Typescript<br>- Always improving and eager to learn</p>
 
 ###
 
@@ -56,5 +56,17 @@
 
 ###
 
+<h2 align="left">Socials</h2>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vmfzy69orxzsjr0oxbv4qvsee&unique={true|1|on|yes})
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-lopes-7497bb234/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/lopsgabriel.s/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
